@@ -30,7 +30,7 @@ public class Activity_login extends Activity {
 		button = (Button) findViewById(R.id.login);
 		createNew_button=(Button)findViewById(R.id.createNew);
 
-		button.setOnClickListener(new OnClickListener() {
+		   button.setOnClickListener(new OnClickListener() {
 
 			@Override
 			public void onClick(View arg0) {
