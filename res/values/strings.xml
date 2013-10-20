@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PublicPositioningSystem</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">Login</string>
+    <string name="createNew">Create New</string>
+    <string name="Login_Screen">Login Screen</string>
+    <string name="copyright">Copyright of pratik palashikar</string>
+    <string name="sign_in">Sign In</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+	<string name="edit_confirmpassword">Confirm Password</string>
+	<string name="cancel">Cancel</string>
+	<string name="create">Create</string>
+	
+</resources>
